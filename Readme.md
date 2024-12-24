@@ -1,6 +1,6 @@
 ## How To Use
 
-### Use the publish image on the hub
+### Use the public image on the hub
 
 - Run
 
